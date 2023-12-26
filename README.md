@@ -12,6 +12,34 @@
 
 ### You can play the game online [GAME LINK](https://nataliiahen.github.io/2048-game/)
 
+## Here's a quick guide on how to play:
+
+### Objective:
+- Combine identical tiles to create a new tile with the sum of the two combined values.
+- The ultimate objective is to reach the 2048 tile by strategically combining tiles.
+
+### Gameplay:
+1. Tile Movement:
+- Swipe on the game board (up, down, left, or right) to move all the tiles in that direction.
+- All tiles will move as far as possible in the chosen direction.
+
+2. Tile Combination:
+- Tiles with the same number will combine when they collide after a move.
+For example, if two tiles with the number 2 collide, they will combine to create a single tile with the number 4.
+
+3. Tile Generation:
+- After each move, a new tile with a value of 2 or 4 will appear on an empty spot on the board.
+
+4. Strategy:
+- Plan your moves strategically to keep the highest-value tiles in one corner.
+- Focus on building up to the 2048 tile by combining tiles in a systematic manner.
+
+5. Game Over:
+- The game ends when there are no more moves possible, and the board is full.
+- The score is the sum of all the tiles on the board.
+
+6. Tips: Plan, be patient, and learn from mistakes. Enjoy!
+
 ### Additional Launch Instructions:
 To play the game locally, follow these steps:
 
